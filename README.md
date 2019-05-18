@@ -1,3 +1,3 @@
 # Learn-Tensorflow
-TensorFlow tutorials from basic. (TF version above 1.11 ) https://tensorflow.org
+TensorFlow 2.0 tutorials from basic. https://tensorflow.org
 
